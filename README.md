@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg?owner=nguyentran113&repo=poem-two-agents&referral=am378nqn)](https://make.fun/c/the-poem-about-two-agents-20261121-1441)
-[![make.fun](https://make.fun/badge.svg?owner=nguyentran113&repo=poem-two-agents)](https://make.fun/c/the-poem-about-two-agents-20261121-1441)
-[![make.fun](https://make.fun/badge.svg?referral=am378nqn)](https://make.fun/c/the-poem-about-two-agents-20261121-1441)
+[![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/nguyentran113/poem-two-agents/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/nguyentran113/poem-two-agents/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
 # poem-two-agents
 
